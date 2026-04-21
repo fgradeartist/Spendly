@@ -6,7 +6,7 @@ Smart mobile money assistant web app — offline-first budgeting system with AI-
 
 ## 🚀 Live Demo (Optional if GitHub Pages enabled)
 
-👉 https://yourusername.github.io/spendly-budget-app/
+👉 https://fgradeartist.github.io/spendly/
 
 ---
 
